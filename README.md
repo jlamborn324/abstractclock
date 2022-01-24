@@ -1,0 +1,2 @@
+# abstractclock
+abstract clock
